@@ -1,0 +1,84 @@
+.navbar{
+background-color: #FFD500;
+height: 60px;
+width:100%;
+
+}
+.mar{
+    margin-left: 160px;
+}
+.color{
+    color: #632a7b;
+    font-size: 14px;
+}
+#bottom{
+	background: #632a7b;
+    color: white;
+
+}
+table{
+	padding-left: 20px;
+}
+th{
+	font-size: 13px;
+	padding-right: 10px;
+  	padding-left: 45px;
+	font-family: 'Open Sans', sans-serif;
+
+}
+td{
+	padding-left: 45px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	font-size: 13px;
+	padding-right: 70px;
+}
+.last{
+	margin-top: 100px;
+}
+h7{
+	font-size: 13px;
+	padding-left: 45px;
+}
+
+.nn{
+    text-align: center;
+ background-image: url(20150728-homemade-whopper-food-lab-35-1500x1125.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ min-height: 400px;
+ color: #ffff;
+ height: 700px;
+
+}
+.gray {
+    color: #969696;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.pl {
+    color: #632a7b;
+    font-weight: bold;
+}
+
+
+.b{
+    color:rgb(33, 33, 33);
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.yel{
+
+    border-width: 1px;
+    width: 10%;
+    border-bottom-color: yellow;
+    border-bottom-style: solid;
+}
+
+hr{
+    background-color: rgb(255, 213, 0); height: 2px; border: 0;
+}
